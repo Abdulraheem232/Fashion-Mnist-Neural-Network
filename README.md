@@ -54,7 +54,7 @@ cd Fashion-Mnist-Neural-Network
 To train the model, run the following script:
 
 ```bash
-python train.py
+python main.py
 ```
 
 The script will:
